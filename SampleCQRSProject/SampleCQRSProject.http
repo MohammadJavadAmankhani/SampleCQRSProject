@@ -1,0 +1,6 @@
+@SampleCQRSProject_HostAddress = http://localhost:5182
+
+GET {{SampleCQRSProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
